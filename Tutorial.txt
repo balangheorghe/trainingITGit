@@ -3,13 +3,13 @@ Structura training:
 	git config --local user.name 
 	git config --local user.email
 	
-	git init
+	git init - initializez git-ul intr-un folder
 
-	git status
+	git status - status git (vad daca pot sau nu sa fac commit-urile)
 
-	touch file
+	touch file- creare fisier
 
-	git add file
+	git add file - adaug fisierul in staging area
 
 	git status
 
@@ -17,10 +17,12 @@ Structura training:
 
 	git status
 	
-	git commit
+	git commit - fac commit
 	
 	git status
 	
-	git config --global core.editor notepad //pentru a schimba editorul
+	git config --global core.editor notepad //pentru a schimba editorul 
 	
-	git log
+	git log - log git
+	
+	
