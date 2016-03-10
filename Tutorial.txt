@@ -28,3 +28,11 @@ Structura training:
 	//Pot avea mai mult fisiere in staging area
 	git add . -A - adauga recursiv tot ce am in directorul curent
 	git commit -m "si pun mesajul pe care il vreau fara sa mai apara notepad"
+	
+	git branch test_branch // crearea unui nou branch
+	
+	git branch -a // vad ce branch-uri am
+	
+	git checkout nume_branch (ma mut pe nume_branch)
+	
+	
