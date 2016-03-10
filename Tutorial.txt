@@ -1,0 +1,26 @@
+Structura training:
+
+	git config --local user.name 
+	git config --local user.email
+	
+	git init
+
+	git status
+
+	touch file
+
+	git add file
+
+	git status
+
+	touch file2
+
+	git status
+	
+	git commit
+	
+	git status
+	
+	git config --global core.editor notepad //pentru a schimba editorul
+	
+	git log
