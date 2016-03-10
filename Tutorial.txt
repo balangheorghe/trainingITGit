@@ -25,4 +25,6 @@ Structura training:
 	
 	git log - log git
 	
-	
+	//Pot avea mai mult fisiere in staging area
+	git add . -A - adauga recursiv tot ce am in directorul curent
+	git commit -m "si pun mesajul pe care il vreau fara sa mai apara notepad"
